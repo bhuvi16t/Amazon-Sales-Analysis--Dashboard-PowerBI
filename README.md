@@ -58,15 +58,15 @@ The dashboard enables users to:
 ---
 
 ## 📷 Dashboard Preview
-![Amazon Dashboard](./assets/amazon_dashboard.png)  
-*(Replace with your dashboard image path)*  
+![Amazon Dashboard]([./assets/amazon_dashboard.png](https://github.com/bhuvi16t/Amazon-Sales-Analysis--Dashboard-PowerBI/blob/main/Preview%20Dasboard%20.png))  
+ 
 
 ---
 
 ## 📬 Connect With Me
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/bhoopendra-vishwakarma/)  
-- **GitHub:** [Your Profile](https://github.com/bhuvi16t/)  
-- **Portfolio/Website:** [Your Site](https://bhuvi16t.github.io/portfolio/)  
+- **LinkedIn:** [Click Here ](https://www.linkedin.com/in/bhoopendra-vishwakarma/)  
+- **GitHub:** [Click Here ](https://github.com/bhuvi16t/)  
+- **Portfolio/Website:** [Click Here ](https://bhuvi16t.github.io/portfolio/)  
 
 ---
 
