@@ -58,7 +58,7 @@ The dashboard enables users to:
 ---
 
 ## 📷 Dashboard Preview
-![Amazon Dashboard]([./assets/amazon_dashboard.png](https://github.com/bhuvi16t/Amazon-Sales-Analysis--Dashboard-PowerBI/blob/main/Preview%20Dasboard%20.png))  
+**Dashboard** [Amazon Dashboard](https://github.com/bhuvi16t/Amazon-Sales-Analysis--Dashboard-PowerBI/blob/main/Preview%20Dasboard%20.png) 
  
 
 ---
